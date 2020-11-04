@@ -1,29 +1,28 @@
-# Foobar
+# Jelo Client
 
-Foobar is a Python library for dealing with word pluralization.
+## About Jelo Client
+
+Jelo Client is a client created by Jelosus1 of a browser game called [Venge.io](https://venge.io), a shooter game in first person you can play with your friends or just ply public matches.
+
+***Why you should download our client?***
+
+* *Reduce app size* 
+* *No FPS Limit*
+* *No ads*
+* *Not need download again*
+* *Discord Reach Presence*
+ 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Click [here](https://github.com/Jelosus1/Jelo-Client/releases) to download the client and execute the executable file
 
-```bash
-pip install foobar
-```
 
-## Usage
+## Contact
+Discord: Jelosus1#0001
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Official Jelo Client Discord Server: [Click here](https://discord.gg/wtGeHW4p95)
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
