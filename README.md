@@ -8,10 +8,15 @@ Jelo Client is a client created by Jelosus1 of a browser game called [Venge.io](
 
 * *Reduce app size* 
 * *No FPS Limit*
-* *No ads*
+* *~~No ads~~*
 * *Not need download again*
 * *Discord Reach Presence*
+
+## KeyBinds
  
+ ***F11 for fullscreen***
+ ***Alt + F4 for quit the game or close a window***
+ ***Ctrl + F5 for reload the menu or update venge***
 
 ## Installation
 
