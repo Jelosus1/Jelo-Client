@@ -8,7 +8,7 @@ Jelo Client is a client created by Jelosus1 of a browser game called [Venge.io](
 
 * *Reduce app size* 
 * *No FPS Limit*
-* *~~No ads~~*
+* *No ads*
 * *Not need download again*
 * *Discord Reach Presence*
 
