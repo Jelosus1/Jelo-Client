@@ -17,6 +17,7 @@ Jelo Client is a client created by Jelosus1 of a browser game called [Venge.io](
  * ***F11 for fullscreen***
  * ***Alt + F4 for quit the game or close a window***
  * ***Ctrl + F5 for reload the menu or update venge***
+  * ***F10 for disable/enable frame cap***
 
 ## Installation
 
@@ -24,7 +25,7 @@ Click [here](https://github.com/Jelosus1/Jelo-Client/releases) to download the c
 
 
 ## Contact
-Discord: Jelosus1#0001
+Discord: Jelosus1#1684
 
 Official Jelo Client Discord Server: [Click here](https://discord.gg/wtGeHW4p95)
 
